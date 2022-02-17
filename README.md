@@ -25,3 +25,11 @@ One long list of reading materials and reference articles in no particular order
 
 # Synthetic Data
 //TODO
+
+---
+
+# Website Dev & Deployment
+## React
+- Prod Ready Framework: https://nextjs.org/
+- Develop, Preview, Ship: https://vercel.com/
+
